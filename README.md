@@ -1,6 +1,6 @@
-#H1 Brian McCoy Module One
+# Brian McCoy Module One
 
-##Answers:
+## Answers:
 
 1. What is the purpose of a version control system?
    - To allow collaboration of a project enabling the members to update and review code of a project.
