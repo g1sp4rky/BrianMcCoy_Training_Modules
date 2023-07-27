@@ -3,7 +3,7 @@
 ## Answers:
 
 1. What is the purpose of a version control system?
-  - To allow collaboration of a project enabling the members to update and review code of a project.
+  -- To allow collaboration of a project enabling the members to update and review code of a project.
 2. How do you create a new branch in Git using the command line?
   - $git branch newBranchName
 3. How do you create a new branch in Git using the command line?
