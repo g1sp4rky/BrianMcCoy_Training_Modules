@@ -19,7 +19,6 @@
 
 
 ![test](https://github.com/g1sp4rky/BrianMcCoy_Training_Modules/assets/122124088/8cc477a1-536e-418c-86af-3982150a7f1b)
-
 //drag and drop from files
 
 https://www.youtube.com/watch?v=FSfRRBNPfFs
