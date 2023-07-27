@@ -10,10 +10,10 @@
   > To get a copy of a repository or branch and store it in a new directory on your pc.
 4. How do you stage changes for a commit in Git?
   > modify content that's in a file of the repository
-  > $git status    //see if it was modified
-  > $git diff      //see changes made
-  > $git add index.htm    //after changes have been made and satisfied w/ changes, stage it
-  > $git commit -m "<Brian McCoy> New changes made to index.htm"
+   $git status    //see if it was modified
+   $git diff      //see changes made
+   $git add index.htm    //after changes have been made and satisfied w/ changes, stage it
+   $git commit -m "<Brian McCoy> New changes made to index.htm"
 5. What is a pull request used for?
   > pull requests create a new branch for the purpose of proposing changes to a file that you have modified and are requesting to commit it to the repository.
 
