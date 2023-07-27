@@ -16,4 +16,4 @@
   - $git commit -m "<Brian McCoy> New changes made to index.htm"
 5. What is a pull request used for?
   - pull requests create a new branch for the purpose of proposing changes to a file that you have modified and are requesting to commit it to the repository.
-    
+
