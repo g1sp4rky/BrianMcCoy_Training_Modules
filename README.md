@@ -19,8 +19,28 @@
 
 ![test2](https://github.com/g1sp4rky/BrianMcCoy_Training_Modules/assets/122124088/91d2cadd-d074-435e-8c4d-1377cd2f03d0)
 
-
-
-//drag and drop from files
-
 https://www.youtube.com/watch?v=t10s26GsWvY
+
+
+
+
+# Brian McCoy Module 2
+
+## Answers:
+1. What command is used to display the current working directory?
+   - $pwd
+2. How do you create a new directory in Linux?
+   - $mkdir nameOfNewDirectory
+3. What command is used to list files and directories in the current directory?
+   - $ls
+4. How do you navigate to the parent directory in the Linux terminal?
+   - $cd ..
+5. What command is used to copy files in Linux? (You may provide an example as your answer)
+   - cp
+  
+![copyFile](https://github.com/g1sp4rky/BrianMcCoy_Training_Modules/assets/122124088/fe3ed368-efb5-47c9-a90a-e47a7701f68d)
+
+
+![bandSong](https://github.com/g1sp4rky/BrianMcCoy_Training_Modules/assets/122124088/f8505734-f29a-4310-b214-546d65421673)
+
+
