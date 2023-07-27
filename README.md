@@ -9,8 +9,8 @@
 3. How do you create a new branch in Git using the command line?
   > To get a copy of a repository or branch and store it in a new directory on your pc.
 4. How do you stage changes for a commit in Git?
-  > modify content that's in a file of the repository
-   $git status    //see if it was modified
+  > modify content that's in a file of the repository.
+  > $git status    //see if it was modified.
    $git diff      //see changes made
    $git add index.htm    //after changes have been made and satisfied w/ changes, stage it
    $git commit -m "<Brian McCoy> New changes made to index.htm"
